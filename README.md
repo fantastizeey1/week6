@@ -31,7 +31,7 @@ This is a simple **React application** styled with **Tailwind CSS** that allows 
 
    ```
 
-4. Open at http://localhost:3000.
+4. Open at http://localhost:5173/.
 
 Components
 
